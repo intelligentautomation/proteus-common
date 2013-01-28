@@ -12,6 +12,10 @@ This module depends on the following 3rd party libraries:
 
 * [Joda Time](http://joda-time.sourceforge.net/ "Joda Time"), Version 2.1, Apache License, Version 2.0
 
+# License 
+
+This software is released under the GNU Lesser General Public License (LGPL). See the file "LICENSE" for more details. 
+
 # Acknowledgments
 
 This software was initially developed by [Intelligent Automation, Inc.](http://www.i-a-i.com "IAI"), under NASA funding (contract no: NNX11CA19C). 
